@@ -1,10 +1,3 @@
-#provider block
-#provider "azurerm" {
-   # name = "default"
-    #location = "West US 2"
-#}
-
-
 # 1. Specify the version of the AzureRM Provider to use
 terraform {
   required_providers {
