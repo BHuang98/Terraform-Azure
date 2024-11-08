@@ -21,3 +21,12 @@ Utilized varibles to change the name of the resource group and VN
 
 ![image](https://github.com/user-attachments/assets/58395820-af65-430d-be53-8881cfc1dfd5)
 
+
+
+created a terraform.tfvars file to be able to change the varribles on the fly and not have to scroll through huge blocks of code. (not much code but for future reference use this for inputing mutiple variables)
+
+![image](https://github.com/user-attachments/assets/0f430870-16ba-4d1a-8dde-3630f3582dfd)
+![image](https://github.com/user-attachments/assets/7de0d6f1-d3fc-42f0-b3fa-16ed911653bf)
+![image](https://github.com/user-attachments/assets/b6f0864a-bcf1-478d-8c7f-c800e8cb5d76)
+
+
