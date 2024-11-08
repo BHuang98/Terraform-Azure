@@ -30,3 +30,8 @@ created a terraform.tfvars file to be able to change the varribles on the fly an
 ![image](https://github.com/user-attachments/assets/b6f0864a-bcf1-478d-8c7f-c800e8cb5d76)
 
 
+created output.tf file to show information things I created in Azure using terraform. 
+![image](https://github.com/user-attachments/assets/76e35a32-ac51-4b19-93a8-acb696f33313)
+
+
+
