@@ -1,4 +1,4 @@
-# Terraform-Azure
+# Terraform-Azure IaC
 Using Terraform to create cloud infrastructure 
 
 
